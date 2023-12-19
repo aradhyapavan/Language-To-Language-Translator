@@ -31,7 +31,7 @@ Beyond Borders is more than just a translator; it's a champion of communication 
 
 **Let's translate with respect, inclusivity, and a shared love for languages!**
 
-##Tech Stcack Used:
+## Tech Stcack Used:
 <li>Backend : PHP
 <li>Frontenf Html,Css,JS,Bootstrap and Jquery
 <li>Api - Google Translation Api
