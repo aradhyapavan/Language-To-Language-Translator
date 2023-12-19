@@ -20,12 +20,6 @@ Beyond Borders is more than just a translator; it's a champion of communication 
 * **Fuel knowledge:** Support education and research with precise and reliable translations for all fields.
 * **Level the playing field:** Make high-quality translations accessible to everyone, regardless of financial constraints.
 
-**Ready to explore?**
-
-1. **Get your hands dirty:** Clone the repository (coming soon!).
-2. **Fuel the engine:** Set up your PHP development environment and configure the database.
-3. **Unlock the languages:** Add API keys for the chosen translation engines.
-4. **Let the words flow:** Start translating! Your 50,000-character epics await.
 
 
 
