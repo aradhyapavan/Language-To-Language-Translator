@@ -14,7 +14,9 @@ Forget the frustration of truncated texts! **Beyond Borders** is your passport t
 
 **More than just words:**
 
-Beyond Borders is more than just a translator; it's a champion of communication and understanding. We aim to:
+Beyond Borders is more than just a translator; it's a champion of communication and understanding.
+
+We aim to:
 
 * **Empower expression:** Break down language barriers and let your voice be heard, no matter where you're from.
 * **Fuel knowledge:** Support education and research with precise and reliable translations for all fields.
